@@ -31,7 +31,7 @@ body {
 .main {
 display: block;
 width: 500px;
-margin: 0 auto 0;
+margin: 0 auto;
 }
 .task {
 width: 56%;
