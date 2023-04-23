@@ -4,16 +4,19 @@ body {
     color: #333;
     font-family: Lato, sans-serif;
 }
+
 .header {
     width: 500px;
     margin: 0 auto;
     display: block;
     text-align: right;
 }
+
 .header img {
     width: 100%;
 }
-.header .more_inf {
+
+.header__info {
     font-family: fantasy, cursive;
 }
 
