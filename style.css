@@ -38,7 +38,7 @@ width: 56%;
 display: inline-block;
 flex-grow: 1
 }
-.task-row-wrapper {
+.new-task__wrapper {
 display: flex;
 }
 ul {
